@@ -1,6 +1,6 @@
 linux-rockchip (6.12.0-23.23) noble; urgency=medium
 
   * Kernel: Synchronize with the upstream linux-rockchip and update the kernel to version 6.12.23
-  * add Cyber3588 Aib board
+  * add fmx1 pro board
 
  -- Lemon1151 <smile1151@foxmail.com>  Sat, 16 Mar 2025 13:40:54 -0400
